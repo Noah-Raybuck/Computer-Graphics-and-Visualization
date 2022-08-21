@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(296,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(468,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(469,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(473,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(474,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(476,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(477,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Source.cpp(487,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Assignment 6.vcxproj -> C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 6\Debug\Assignment 6.exe
