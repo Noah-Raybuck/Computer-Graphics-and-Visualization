@@ -1,0 +1,1 @@
+﻿C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Assignment 3\Assignment 3\tutorial_05_03.vcxproj(64,5): error MSB4019: The imported project "C:\Users\noahr\Documents\CS\Comp Graphics and Vis\Graphics_win32.props" was not found. Confirm that the expression in the Import declaration "..\..\Graphics_win32.props" is correct, and that the file exists on disk.
